@@ -1,0 +1,51 @@
+
+h3{
+font-weight: lighter;
+color: #ffffff;
+}
+.link{
+color:#ffe7a3; 
+/* text-decoration:none; */
+}
+.link_2{
+  color: #ffffff;
+text-decoration: none;
+}
+.link_3{
+    color:#ffe7a3 !important;
+    font-weight: bold;
+    text-decoration: none;
+}
+.link_4{
+    color:#f0f0f8 !important;
+    font-weight: bold;
+    text-decoration: none;
+}
+.container{
+    background-color:#3d3e44;
+    height: 280px;
+    width: 550px;
+}
+p{
+    font-weight: lighter;
+}
+#email_box{
+    height: 40px;
+    width: 300px;
+}        
+.btn1{
+    background-color: #e03131;
+    font-weight: bold;
+    font-size: 16px;
+    color: white;
+    width: 155px;
+    height: 45px;
+    border: 0;
+    
+}
+.per_sist{
+    background-color: #000000;
+    width: 50px;
+    height: 50px;
+
+}
